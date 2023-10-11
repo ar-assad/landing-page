@@ -71,6 +71,11 @@ a {
     text-decoration: none;
 }
 
+a.baroodlink {
+    color: #0026ff;
+    font-weight: bold;
+}
+
 .cards {
     display: flex;
     flex-wrap: wrap;
